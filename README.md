@@ -1,3 +1,7 @@
-# timfeeley.com
+instlal package and build
 
-Tim Feeley’s personal site.
+```bash
+$ pnpm i
+$ pnpm build
+```
+
